@@ -1,0 +1,7 @@
+__pycache__/
+.vscode/
+activity_log.json
+cookies.json
+lenv/
+webdrivers/
+wenv/
